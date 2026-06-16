@@ -1,5 +1,3 @@
-# petit_project
-
 Small scripts and notebooks from posts on [felipeo.me](https://felipeo.me).
 
 This repo is where I keep the code behind some blog articles: quick analyses, data notebooks, small experiments, and the occasional thing that got too big to stay only inside the post.
